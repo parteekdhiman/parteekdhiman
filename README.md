@@ -84,14 +84,37 @@
 
 ---
 
-## 📦 Featured Projects
+## 📦 Projects
 
-| Project | What it does | Stack |
-|---|---|---|
-| 🎓 **Dharamshala Alumni Portal (OSAGCD)** | End-to-end alumni platform: searchable directory, events, blogs, Razorpay payments, admin panel, role-based access | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) ![Razorpay](https://img.shields.io/badge/Razorpay-0C2451?style=flat-square&logo=razorpay&logoColor=white) |
-| 🤖 **AI Q&A Chatbot** | Conversational chatbot feature with prompt construction and response rendering | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) |
-| 📰 **newus.in** | Responsive news website with dynamic content rendering and state management | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
-| 🏫 **mpips.co.in** | School website with content management and data operations | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
+### 🎓 Dharamshala Alumni Portal (OSAGCD), Old Students' Association
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel%2010-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Blade](https://img.shields.io/badge/Blade-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) ![Razorpay](https://img.shields.io/badge/Razorpay-0C2451?style=flat-square&logo=razorpay&logoColor=white)
+
+- Owned the platform end-to-end, from the Blade/Bootstrap frontend and Laravel backend to MySQL schema design, for an alumni community portal.
+- Built member features including a searchable alumni directory (by batch, city, profession), profile management, event registration, and a blog for alumni stories.
+- Integrated Razorpay for secure event payments with signature verification and built an admin panel to manage users, events, blogs, payments, and refunds.
+- Implemented role-based access control (Admin/Member), CSRF protection, form validation, and secure file uploads.
+
+### 🤖 AI Q&A Chatbot
+
+![React](https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white)
+
+- Built a conversational Q&A chatbot feature integrating the OpenAI API with a Node.js backend and React frontend.
+- Handled prompt construction and response rendering for user queries.
+
+### 📰 newus.in, News Website
+
+![React](https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+- Developed and deployed a responsive news website with a React frontend and Node.js/Express.js backend.
+- Implemented dynamic content rendering and state management across multiple news sections and pages.
+
+### 🏫 mpips.co.in, School Website
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+- Built a school website with a user-friendly interface for managing school information.
+- Implemented backend functionality for content management and data operations.
 
 ---
 
