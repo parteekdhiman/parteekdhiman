@@ -1,6 +1,6 @@
 <!-- ===================== ANIMATED HEADER ===================== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0e75b6,50:00c6ff,100:7b2ff7&height=240&section=header&text=Parteek%20Dhiman&fontSize=56&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20Building%20AI-Powered%20SaaS%20Tools&descSize=18&descAlignY=62" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,50:00c6ff,100:7b2ff7&height=220&section=header&text=Parteek%20Dhiman&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20Building%20AI-Powered%20SaaS%20Tools&descSize=18&descAlignY=58" width="100%" alt="Header" />
 </div>
 
 <!-- ===================== TYPING ANIMATION ===================== -->
